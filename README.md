@@ -1,18 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Gabriel!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briel0&layout=compact)
+🎓 **Computer Science student** with a strong background in **algorithms**, **data structures**, and a passion for **teaching**.  
+💻 I enjoy working with **C++** (especially in competitive programming) and exploring new technologies in web development, game development, and APIs.
 
-<!--
-**briel0/briel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 👨‍🏫 Experienced in teaching **programming** (C++, algorithms, data structures) to beginners and kids using **Scratch**, **Minecraft Education**, and **Roblox Studio**.  
+- 🎮 Game developer enthusiast, working with **Godot** and **Roblox Studio**.  
+- 🌱 Currently learning and experimenting with **APIs**, **React**, and backend technologies.  
+- 📚 Love reading about **psychology**, especially topics on **habit development** and **behavioral productivity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briel0&layout=compact&theme=tokyonight)
+
