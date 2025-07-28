@@ -11,6 +11,3 @@
 - 🌱 Currently learning and experimenting with **APIs**, **React**, and backend technologies.  
 - 📚 Love reading about **psychology**, especially topics on **habit development** and **behavioral productivity**.  
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briel0&layout=compact&theme=tokyonight)
-
