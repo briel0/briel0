@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Gabriel!
 
 🎓 **Computer Science student** with a strong background in **algorithms**, **data structures**, and a passion for **teaching**.  
-💻 I enjoy working with **C++** (especially in competitive programming) and exploring new technologies in web development, game development, and APIs.
+💻 I enjoy working with **C++** (especially in competitive programming) and exploring technologies in game development.
 
 ---
 
