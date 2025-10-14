@@ -6,8 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 👨‍🏫 Experienced in teaching **programming** (C++, algorithms, data structures) to beginners and kids using **Scratch**, **Minecraft Education**, and **Roblox Studio**.  
-- 🎮 Game developer enthusiast, working with **Godot** and **Roblox Studio**.  
-- 🌱 Currently learning and experimenting with **APIs**, **React**, and backend technologies.  
+- 👨‍🏫 Experienced in teaching **programming** to beginners and kids.  
+- 🎮 Game developer enthusiast, working with **Godot** and **Unity**.   
 - 📚 Love reading about **psychology**, especially topics on **habit development** and **behavioral productivity**.  
 
